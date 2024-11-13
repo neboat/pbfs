@@ -1,0 +1,10 @@
+bfs
+*.o
+*.d
+
+*.ll
+*~
+reduce-script
+
+*.dSYM
+.DS_Store
